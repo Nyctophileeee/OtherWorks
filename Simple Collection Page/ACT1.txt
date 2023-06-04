@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>My Simple Webpage</title>
+</head>
+<body>
+	
+</body>
+</html>
+<html>
+	<head>
+		<title> My Simple Webpage </title>
+	</head>
+
+	<body bgcolor="black">
+		<h1 align="center"> <font face="elephant" size="10" color="white"> My Collections Page </font></h1><br>
+			<hr midth="100%"><br>
+
+		<marquee direction="left" behavior="slide" width="43% "scrollamount="25"> 
+			<h2 align="left"> <font face="Magneto" size="8" color="white"> Shot from my phone </marquee> </font> </h2>
+			<br>
+				<center><img src="IMG_20210129_151329.jpg" height="450" width="550" alt="Tree">
+				<img src="IMG_20200417_112924.jpg" height="650" width="550" alt="Sunlight"></center>
+				<pre align="center"> <font face="forte" size="6" color="white"> "A Healthy Tree"                             "Afternoon Sunlight" </font> </pre>
+				<center><img src="IMG_20200525_182930.jpg" height="450" width="550" alt="Sunset">
+				<img src="IMG_20200525_183122.jpg" height="650" width="550" alt="Sunset"></center>
+				<pre align="center"> <font face="forte" size="6" color="white"> "Almost End"                                 "Beautiful Ending" </font> </pre>
+				<center><img src="IMG_20200826_123437.jpg" height="450" width="550" alt="Clouds">
+				<img src="IMG_20200826_181952.jpg" height="650" width="550" alt="Sunset"></center>
+				<pre align="center"> <font face="forte" size="6" color="white"> "Heaven"                                    "Alternate Ending" </font> </pre>
+				<center><img src="IMG_20200822_135819.jpg" height="650" width="550" alt="Cactus">
+				<img src="IMG_20200822_135046.jpg" height="650" width="550" alt="Ant"></center>
+				<pre align="center"> <font face="forte" size="6" color="white"> "Little Plant"                                   "Hardworking Creature" </font> </pre>
+
+		<marquee direction="left" behavior="slide" width="43% "scrollamount="25"> 
+			<h3 align="left"> <font face="Magneto" size="8" color="white"> Panel in Manga </marquee> </font> </h3>
+			<pre align="left"> <font face="forte" size="6" color="white">             -some of my favorite panel in manga(japanese comic) </font> </pre>
+			<center><img src="Chainsaw Man - Chapter 64 - 10.jpg" height="550" width="400" alt="Hell Devil">
+			<img src="Phantom Seer - Chapter 1 - 40.jpg" height="550" width="400" alt="Ongyoki">
+			<img src="Screenshot_2021-05-26-13-35-54-569_eu.kanade.tachiyomi.j2k.jpg" height="550" width="400" alt="Monster #8"</center>
+			<center><img src="Screenshot_2021-01-01-21-02-06-742_eu.kanade.tachiyomi.j2k.jpg" height="550" width="400" alt="Go-Toubun no Hanayome">
+			<img src="Screenshot_2021-01-20-11-06-35-332_eu.kanade.tachiyomi.j2k.jpg" height="550" width="400" alt="Arima Kosei">
+			<img src="IMG_20210416_015609.jpg" height="550" width="400" alt="Kei Yonagi"></center>
+			<center><img src="Chainsaw Man - Chapter 63 - 18.jpg" height="400" width="570" alt="Public Safety Devil Hunter Special Division 5">
+			<img src="Sono Bisque Doll wa Koi o Suru - Vol.5 Ch.36 - 13.png" height="400" width="570" alt="Kitagawa-san"></center><br>
+
+		<marquee direction="left" behavior="slide" scrollamount="25"> 
+			<h4 align="left"> <font face="Magneto" size="8" color="white"> Artwork in Internet </marquee> </font> </h4>	
+			<center><img src="RDT_20220319_1812166612963649950890302.jpg" height="570" width="400" alt="Ongyoki">
+			<img src="illust_79639823_20220319_184010.png" height="570" width="400" alt="Ongyoki"></center>
+			<img src="illust_69618131_20220319_183127.jpg" height="550" width="900" alt="Ongyoki">
+			<img src="illust_82450453_20220319_182555.jpg" height="550" width="900" alt="Ongyoki">
+			<img src="illust_83515802_20220319_184414.jpg" height="550" width="900" alt="Ongyoki">
+			<img src="illust_91520323_20220319_183519.jpg" height="500" width="550" alt="Ongyoki">
+			<img src="RDT_20220319_1817248875979730925215818.jpg" height="450" width="900" alt="Ongyoki">
+			<center><img src="illust_92389418_20220319_183304.png" height="550" width="900" alt="Ongyoki"></center>
+			<font face="forte" size="6" color="white"> Link for every Artwork </font>
+			<p> <font face="Khmer UI" size="4"> <a href="https://twitter.com/9bamelo/status/1386201098264846338?s=21"> Denji and Aki </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/79639823"> Ichika Nakano </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/69618131"> Cumulo-Nimbus </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/82450453"> Evening Rain </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/91520323"> Starry Sky </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/79639823"> Underwater </a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://youtu.be/tV2QOX9fXEE?t=37"> Yae Miko</a> </font> </p>
+			<p> <font face="Khmer UI" size="4"> <a href="https://www.pixiv.net/en/artworks/92389418"> Hatsune Miku </a> </font> </p>
+			<br><br><br>
+			<hr width="50%">
+			<p> <font face="Georgia" size="5"> Marcelo, Nick Lester C. BSIT 2-2 </font> </p>
+	</body>
+</html>

@@ -1,0 +1,53 @@
+<html>
+	<head><title>Time Greetings</title></head> 
+	<script> 
+		var name=prompt("Name","") 
+	function greet() 
+		{ 
+			var newTime=new Date() 
+			var hrs=newTime.getHours() 
+			var min=newTime.getMinutes() 
+			var sec=newTime.getSeconds() 
+			var greet 
+			if(hrs>=18) 
+				{greet="Good Evening"} 
+			else if(hrs>=12) 
+				{greet="Good Afternoon"} 
+			else 
+				{greet="Good Morning"} 
+			window.status=greet+" "+name+"!" 
+} 
+</script> 
+<body onLoad=greet()> 
+<center> 
+<form name="tym"> 
+<input type=text name="time" size=9> 
+</form> 
+</center> 
+<script> 
+function digiTime() 
+{ 
+var newTime=new Date() 
+var hrs=newTime.getHours() 
+var min=newTime.getMinutes() 
+var sec=newTime.getSeconds() 
+var dn="AM" 
+if(hrs>12) 
+{ 
+hrs=hrs-12 
+dn="PM" 
+} 
+if(hrs==0) 
+{hrs=12} 
+if(min<=9) 
+{min="0"+min} 
+if(sec<=9) 
+{sec="0"+sec} 
+document.tym.time.value=hrs+":"+min+":"+sec+" "+dn 
+setTimeout("digiTime()",1000) 
+} 
+digiTime() 
+</script> 
+<center><h1>This is a Sample JavaScript</h1></center> 
+</body> 
+</html>

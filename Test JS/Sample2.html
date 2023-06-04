@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JavaScript Sample 2</title>
+    <script> 
+        function sampleFunction() 
+        { 
+        window.status="Thank you for clicking the button!"
+        } 
+        </script>
+</head>
+</head> 
+<body onLoad="window.status='Good Evening!';alert('Good Morning!'); document.bgColor='violet'" onUnload="alert('Goodbye!')"> 
+    <form> 
+    <input type=button value="Click!" onClick="sampleFunction()"> 
+    <input type=button value="Click Me!" onClick="alert('This is the first alert!');alert('This is the second alert');alert('This is the third alert')"> 
+    <input type=radio name=num onClick="window.status='You clicked the first radio button'">First 
+    <input type=radio name=num onClick="window.status='You clicked the second radio button' ">Second
+    <input type=radio name=num onClick="window.status='You clicked the third radio button'">Third 
+    </form> 
+</body> 
+</html>

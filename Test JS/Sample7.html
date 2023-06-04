@@ -1,0 +1,22 @@
+<html>
+<head>
+	<title>Using Conditional Textbox</title> 
+	<script> 
+		function Gender(gen) 
+			{ 
+				if(document.form.txtgen.value=="M" || document.form.txtgen.value=="m") 
+					{alert("Male")} 
+				else if(document.form.txtgen.value=="F" || document.form.txtgen.value=="f") 
+					{alert("Female")} 
+				else 
+					{alert("Undefined")} 
+			} 
+	</script> 
+</head> 
+<body> 
+	<form name=form> 
+	<input type="textbox" name="txtgen"> 
+	<input type=button value="Gender" onClick=Gender(txtgen)> 
+	</form> 
+</body> 
+</html>

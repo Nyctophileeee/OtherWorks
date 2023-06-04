@@ -1,0 +1,17 @@
+<html>
+	<head><title>Open Window</title> 
+		<script> 
+			function openWin() 
+			{ 
+				var newWin=window.open("","hello","width=50,height=50") 
+				newWin.document.write("<body bgcolor=yellow>") 
+					newWin.document.write("<h1 align=center>Hello World!</h1>") 
+			} 
+		</script> 
+	</head> 
+	<body> 
+		<form> 
+			<input type=button value=Click onClick=openWin()> 
+		</form> 
+	</body> 
+</html>
